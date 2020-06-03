@@ -2,7 +2,7 @@
 description: >-
   Το παρόν έγγραφο πρόκειται για πτυχιακή  εργασία. Κατεβαστέ το PDF για
   καλύτερη ανάγνωση από το παρακάτω link:
-  https://github.com/skiaxtro/-/blob/master/Cryptos.pdf
+  https://github.com/skiaxtro/-/blob/master/%CE%9A%CF%81%CF%85%CF%80%CF%84%CE%BF%CE%BD%CE%BF%CE%BC%CE%AF%CF%83%CE%BC%CE%B1%CF%84%CE%B1%2C%20%CE%99%CF%83%CF%84%CE%BF%CF%81%CE%AF%CE%B1%2C%20%CE%A0%CE%B1%CF%81%CF%8C%CE%BD%20%CE%9A%CE%B1%CE%B9%20%CE%9F%CE%B9%20%CE%95%CF%80%CE%B9%CF%80%CF%84%CF%8E%CF%83%CE%B5%CE%B9%CF%82%20%CE%A4%CE%BF%CF%85%CF%82%20%CE%A3%CF%84%CE%B7%CE%BD%20%CE%A4%CE%B5%CF%87%CE%BD%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1.pdf
 ---
 
 # Κρυπτονομίσματα, Ιστορία, Παρόν και οι επιπτώσεις τους στην τεχνολογία
